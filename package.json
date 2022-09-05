@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "-Elaborando la maquetacion de un sitio web de practica.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gachib/Clase-en-Vivo-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gachib/Clase-en-Vivo-11/issues"
+  },
+  "homepage": "https://github.com/Gachib/Clase-en-Vivo-11#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
